@@ -1,8 +1,8 @@
 # Logistic_Regression
 
 ### Alpha
->0.0015
+>0.0014
 ### Epoch
 >50000
 ### Acuracy
->99.3333333333
+>99.666666666
